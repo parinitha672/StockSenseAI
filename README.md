@@ -1,6 +1,3 @@
-# StockSenseAI
-Real-Time Inventory Demand Forecasting and Stock-Out Prediction using R and Shiny
-
 # 📦 StockSense AI
 ## Real-Time Inventory Demand Forecasting and Stock-Out Prediction
 
