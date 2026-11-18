@@ -1,5 +1,6 @@
 # 📦 StockSense AI
 ## Real-Time Inventory Demand Forecasting and Stock-Out Prediction
+Live dashboard : <https://stocksense-ai.shinyapps.io/stocksense-ai/>
 
 StockSense AI is an inventory analytics project developed using R and Shiny. It analyzes historical sales, forecasts product demand, identifies potential stock-out risks, and recommends replenishment quantities through an interactive dashboard.
 
