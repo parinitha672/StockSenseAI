@@ -1,0 +1,7 @@
+"product_id","product_name","category","average_daily_demand","current_stock","lead_time_days","reorder_level"
+"P101","Rice","Grocery",25,220,4,120
+"P102","Cooking Oil","Grocery",12,75,5,60
+"P103","Milk","Dairy",30,45,2,70
+"P104","Bread","Bakery",20,38,2,50
+"P105","Sugar","Grocery",15,160,4,80
+"P106","Coffee","Beverages",8,90,6,55

@@ -1,0 +1,7 @@
+"product_id","product_name","category","current_stock","lead_time_days","reorder_level","average_daily_demand","next_7_days_demand","days_of_stock","expected_lead_time_demand","stockout_risk","stock_status","estimated_stockout_date","estimated_days_until_stockout","recommended_order"
+"P101","Rice","Grocery",220,4,120,26.4277777777778,182,8.32457431154089,104,"Lower Risk","Stock Available",2026-11-25,9,68
+"P102","Cooking Oil","Grocery",75,5,60,12.4555555555556,84,6.021409455843,60,"Lower Risk","Stock Available",2026-11-23,7,72
+"P103","Milk","Dairy",45,2,70,31.0944444444444,217,1.44720385921029,62,"High Risk","Reorder Required",2026-11-18,2,235
+"P104","Bread","Bakery",38,2,50,21.35,147,1.77985948477752,42,"High Risk","Reorder Required",2026-11-18,2,152
+"P105","Sugar","Grocery",160,4,80,15.45,105,10.3559870550162,60,"Lower Risk","Stock Available",2026-11-27,11,7
+"P106","Coffee","Beverages",90,6,55,8.25555555555556,56,10.9017496635262,48,"Lower Risk","Stock Available",2026-11-28,12,16

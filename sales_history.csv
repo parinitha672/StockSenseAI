@@ -1,0 +1,1081 @@
+"date","product_id","product_name","category","demand"
+2026-05-21,"P101","Rice","Grocery",22
+2026-05-21,"P102","Cooking Oil","Grocery",11
+2026-05-21,"P103","Milk","Dairy",24
+2026-05-21,"P104","Bread","Bakery",15
+2026-05-21,"P105","Sugar","Grocery",16
+2026-05-21,"P106","Coffee","Beverages",5
+2026-05-22,"P101","Rice","Grocery",30
+2026-05-22,"P102","Cooking Oil","Grocery",8
+2026-05-22,"P103","Milk","Dairy",35
+2026-05-22,"P104","Bread","Bakery",16
+2026-05-22,"P105","Sugar","Grocery",11
+2026-05-22,"P106","Coffee","Beverages",9
+2026-05-23,"P101","Rice","Grocery",19
+2026-05-23,"P102","Cooking Oil","Grocery",16
+2026-05-23,"P103","Milk","Dairy",21
+2026-05-23,"P104","Bread","Bakery",19
+2026-05-23,"P105","Sugar","Grocery",27
+2026-05-23,"P106","Coffee","Beverages",5
+2026-05-24,"P101","Rice","Grocery",29
+2026-05-24,"P102","Cooking Oil","Grocery",17
+2026-05-24,"P103","Milk","Dairy",36
+2026-05-24,"P104","Bread","Bakery",26
+2026-05-24,"P105","Sugar","Grocery",15
+2026-05-24,"P106","Coffee","Beverages",11
+2026-05-25,"P101","Rice","Grocery",33
+2026-05-25,"P102","Cooking Oil","Grocery",14
+2026-05-25,"P103","Milk","Dairy",37
+2026-05-25,"P104","Bread","Bakery",20
+2026-05-25,"P105","Sugar","Grocery",16
+2026-05-25,"P106","Coffee","Beverages",8
+2026-05-26,"P101","Rice","Grocery",27
+2026-05-26,"P102","Cooking Oil","Grocery",10
+2026-05-26,"P103","Milk","Dairy",24
+2026-05-26,"P104","Bread","Bakery",23
+2026-05-26,"P105","Sugar","Grocery",10
+2026-05-26,"P106","Coffee","Beverages",6
+2026-05-27,"P101","Rice","Grocery",18
+2026-05-27,"P102","Cooking Oil","Grocery",12
+2026-05-27,"P103","Milk","Dairy",28
+2026-05-27,"P104","Bread","Bakery",26
+2026-05-27,"P105","Sugar","Grocery",14
+2026-05-27,"P106","Coffee","Beverages",7
+2026-05-28,"P101","Rice","Grocery",16
+2026-05-28,"P102","Cooking Oil","Grocery",9
+2026-05-28,"P103","Milk","Dairy",26
+2026-05-28,"P104","Bread","Bakery",28
+2026-05-28,"P105","Sugar","Grocery",12
+2026-05-28,"P106","Coffee","Beverages",9
+2026-05-29,"P101","Rice","Grocery",31
+2026-05-29,"P102","Cooking Oil","Grocery",16
+2026-05-29,"P103","Milk","Dairy",33
+2026-05-29,"P104","Bread","Bakery",19
+2026-05-29,"P105","Sugar","Grocery",11
+2026-05-29,"P106","Coffee","Beverages",5
+2026-05-30,"P101","Rice","Grocery",30
+2026-05-30,"P102","Cooking Oil","Grocery",16
+2026-05-30,"P103","Milk","Dairy",35
+2026-05-30,"P104","Bread","Bakery",12
+2026-05-30,"P105","Sugar","Grocery",18
+2026-05-30,"P106","Coffee","Beverages",6
+2026-05-31,"P101","Rice","Grocery",30
+2026-05-31,"P102","Cooking Oil","Grocery",9
+2026-05-31,"P103","Milk","Dairy",38
+2026-05-31,"P104","Bread","Bakery",20
+2026-05-31,"P105","Sugar","Grocery",11
+2026-05-31,"P106","Coffee","Beverages",9
+2026-06-01,"P101","Rice","Grocery",25
+2026-06-01,"P102","Cooking Oil","Grocery",11
+2026-06-01,"P103","Milk","Dairy",28
+2026-06-01,"P104","Bread","Bakery",19
+2026-06-01,"P105","Sugar","Grocery",16
+2026-06-01,"P106","Coffee","Beverages",5
+2026-06-02,"P101","Rice","Grocery",22
+2026-06-02,"P102","Cooking Oil","Grocery",12
+2026-06-02,"P103","Milk","Dairy",34
+2026-06-02,"P104","Bread","Bakery",22
+2026-06-02,"P105","Sugar","Grocery",12
+2026-06-02,"P106","Coffee","Beverages",4
+2026-06-03,"P101","Rice","Grocery",31
+2026-06-03,"P102","Cooking Oil","Grocery",9
+2026-06-03,"P103","Milk","Dairy",30
+2026-06-03,"P104","Bread","Bakery",24
+2026-06-03,"P105","Sugar","Grocery",18
+2026-06-03,"P106","Coffee","Beverages",9
+2026-06-04,"P101","Rice","Grocery",29
+2026-06-04,"P102","Cooking Oil","Grocery",15
+2026-06-04,"P103","Milk","Dairy",31
+2026-06-04,"P104","Bread","Bakery",17
+2026-06-04,"P105","Sugar","Grocery",13
+2026-06-04,"P106","Coffee","Beverages",8
+2026-06-05,"P101","Rice","Grocery",24
+2026-06-05,"P102","Cooking Oil","Grocery",15
+2026-06-05,"P103","Milk","Dairy",30
+2026-06-05,"P104","Bread","Bakery",16
+2026-06-05,"P105","Sugar","Grocery",21
+2026-06-05,"P106","Coffee","Beverages",6
+2026-06-06,"P101","Rice","Grocery",24
+2026-06-06,"P102","Cooking Oil","Grocery",16
+2026-06-06,"P103","Milk","Dairy",42
+2026-06-06,"P104","Bread","Bakery",20
+2026-06-06,"P105","Sugar","Grocery",17
+2026-06-06,"P106","Coffee","Beverages",7
+2026-06-07,"P101","Rice","Grocery",23
+2026-06-07,"P102","Cooking Oil","Grocery",13
+2026-06-07,"P103","Milk","Dairy",46
+2026-06-07,"P104","Bread","Bakery",24
+2026-06-07,"P105","Sugar","Grocery",21
+2026-06-07,"P106","Coffee","Beverages",10
+2026-06-08,"P101","Rice","Grocery",23
+2026-06-08,"P102","Cooking Oil","Grocery",23
+2026-06-08,"P103","Milk","Dairy",28
+2026-06-08,"P104","Bread","Bakery",24
+2026-06-08,"P105","Sugar","Grocery",16
+2026-06-08,"P106","Coffee","Beverages",11
+2026-06-09,"P101","Rice","Grocery",19
+2026-06-09,"P102","Cooking Oil","Grocery",17
+2026-06-09,"P103","Milk","Dairy",34
+2026-06-09,"P104","Bread","Bakery",20
+2026-06-09,"P105","Sugar","Grocery",8
+2026-06-09,"P106","Coffee","Beverages",4
+2026-06-10,"P101","Rice","Grocery",21
+2026-06-10,"P102","Cooking Oil","Grocery",8
+2026-06-10,"P103","Milk","Dairy",28
+2026-06-10,"P104","Bread","Bakery",15
+2026-06-10,"P105","Sugar","Grocery",19
+2026-06-10,"P106","Coffee","Beverages",16
+2026-06-11,"P101","Rice","Grocery",24
+2026-06-11,"P102","Cooking Oil","Grocery",15
+2026-06-11,"P103","Milk","Dairy",32
+2026-06-11,"P104","Bread","Bakery",18
+2026-06-11,"P105","Sugar","Grocery",12
+2026-06-11,"P106","Coffee","Beverages",3
+2026-06-12,"P101","Rice","Grocery",19
+2026-06-12,"P102","Cooking Oil","Grocery",6
+2026-06-12,"P103","Milk","Dairy",27
+2026-06-12,"P104","Bread","Bakery",22
+2026-06-12,"P105","Sugar","Grocery",16
+2026-06-12,"P106","Coffee","Beverages",5
+2026-06-13,"P101","Rice","Grocery",22
+2026-06-13,"P102","Cooking Oil","Grocery",8
+2026-06-13,"P103","Milk","Dairy",39
+2026-06-13,"P104","Bread","Bakery",21
+2026-06-13,"P105","Sugar","Grocery",16
+2026-06-13,"P106","Coffee","Beverages",8
+2026-06-14,"P101","Rice","Grocery",27
+2026-06-14,"P102","Cooking Oil","Grocery",7
+2026-06-14,"P103","Milk","Dairy",29
+2026-06-14,"P104","Bread","Bakery",13
+2026-06-14,"P105","Sugar","Grocery",16
+2026-06-14,"P106","Coffee","Beverages",12
+2026-06-15,"P101","Rice","Grocery",18
+2026-06-15,"P102","Cooking Oil","Grocery",10
+2026-06-15,"P103","Milk","Dairy",39
+2026-06-15,"P104","Bread","Bakery",18
+2026-06-15,"P105","Sugar","Grocery",23
+2026-06-15,"P106","Coffee","Beverages",5
+2026-06-16,"P101","Rice","Grocery",29
+2026-06-16,"P102","Cooking Oil","Grocery",10
+2026-06-16,"P103","Milk","Dairy",30
+2026-06-16,"P104","Bread","Bakery",13
+2026-06-16,"P105","Sugar","Grocery",19
+2026-06-16,"P106","Coffee","Beverages",10
+2026-06-17,"P101","Rice","Grocery",29
+2026-06-17,"P102","Cooking Oil","Grocery",10
+2026-06-17,"P103","Milk","Dairy",36
+2026-06-17,"P104","Bread","Bakery",16
+2026-06-17,"P105","Sugar","Grocery",20
+2026-06-17,"P106","Coffee","Beverages",11
+2026-06-18,"P101","Rice","Grocery",29
+2026-06-18,"P102","Cooking Oil","Grocery",12
+2026-06-18,"P103","Milk","Dairy",40
+2026-06-18,"P104","Bread","Bakery",16
+2026-06-18,"P105","Sugar","Grocery",7
+2026-06-18,"P106","Coffee","Beverages",8
+2026-06-19,"P101","Rice","Grocery",28
+2026-06-19,"P102","Cooking Oil","Grocery",17
+2026-06-19,"P103","Milk","Dairy",28
+2026-06-19,"P104","Bread","Bakery",19
+2026-06-19,"P105","Sugar","Grocery",13
+2026-06-19,"P106","Coffee","Beverages",9
+2026-06-20,"P101","Rice","Grocery",31
+2026-06-20,"P102","Cooking Oil","Grocery",13
+2026-06-20,"P103","Milk","Dairy",26
+2026-06-20,"P104","Bread","Bakery",22
+2026-06-20,"P105","Sugar","Grocery",20
+2026-06-20,"P106","Coffee","Beverages",8
+2026-06-21,"P101","Rice","Grocery",28
+2026-06-21,"P102","Cooking Oil","Grocery",17
+2026-06-21,"P103","Milk","Dairy",32
+2026-06-21,"P104","Bread","Bakery",25
+2026-06-21,"P105","Sugar","Grocery",17
+2026-06-21,"P106","Coffee","Beverages",9
+2026-06-22,"P101","Rice","Grocery",23
+2026-06-22,"P102","Cooking Oil","Grocery",14
+2026-06-22,"P103","Milk","Dairy",30
+2026-06-22,"P104","Bread","Bakery",12
+2026-06-22,"P105","Sugar","Grocery",17
+2026-06-22,"P106","Coffee","Beverages",13
+2026-06-23,"P101","Rice","Grocery",23
+2026-06-23,"P102","Cooking Oil","Grocery",11
+2026-06-23,"P103","Milk","Dairy",39
+2026-06-23,"P104","Bread","Bakery",16
+2026-06-23,"P105","Sugar","Grocery",20
+2026-06-23,"P106","Coffee","Beverages",6
+2026-06-24,"P101","Rice","Grocery",21
+2026-06-24,"P102","Cooking Oil","Grocery",6
+2026-06-24,"P103","Milk","Dairy",28
+2026-06-24,"P104","Bread","Bakery",16
+2026-06-24,"P105","Sugar","Grocery",20
+2026-06-24,"P106","Coffee","Beverages",3
+2026-06-25,"P101","Rice","Grocery",29
+2026-06-25,"P102","Cooking Oil","Grocery",10
+2026-06-25,"P103","Milk","Dairy",32
+2026-06-25,"P104","Bread","Bakery",27
+2026-06-25,"P105","Sugar","Grocery",14
+2026-06-25,"P106","Coffee","Beverages",14
+2026-06-26,"P101","Rice","Grocery",24
+2026-06-26,"P102","Cooking Oil","Grocery",5
+2026-06-26,"P103","Milk","Dairy",28
+2026-06-26,"P104","Bread","Bakery",27
+2026-06-26,"P105","Sugar","Grocery",15
+2026-06-26,"P106","Coffee","Beverages",6
+2026-06-27,"P101","Rice","Grocery",35
+2026-06-27,"P102","Cooking Oil","Grocery",18
+2026-06-27,"P103","Milk","Dairy",34
+2026-06-27,"P104","Bread","Bakery",29
+2026-06-27,"P105","Sugar","Grocery",27
+2026-06-27,"P106","Coffee","Beverages",10
+2026-06-28,"P101","Rice","Grocery",23
+2026-06-28,"P102","Cooking Oil","Grocery",22
+2026-06-28,"P103","Milk","Dairy",36
+2026-06-28,"P104","Bread","Bakery",18
+2026-06-28,"P105","Sugar","Grocery",19
+2026-06-28,"P106","Coffee","Beverages",5
+2026-06-29,"P101","Rice","Grocery",22
+2026-06-29,"P102","Cooking Oil","Grocery",17
+2026-06-29,"P103","Milk","Dairy",37
+2026-06-29,"P104","Bread","Bakery",21
+2026-06-29,"P105","Sugar","Grocery",15
+2026-06-29,"P106","Coffee","Beverages",14
+2026-06-30,"P101","Rice","Grocery",20
+2026-06-30,"P102","Cooking Oil","Grocery",11
+2026-06-30,"P103","Milk","Dairy",30
+2026-06-30,"P104","Bread","Bakery",23
+2026-06-30,"P105","Sugar","Grocery",9
+2026-06-30,"P106","Coffee","Beverages",12
+2026-07-01,"P101","Rice","Grocery",24
+2026-07-01,"P102","Cooking Oil","Grocery",20
+2026-07-01,"P103","Milk","Dairy",33
+2026-07-01,"P104","Bread","Bakery",24
+2026-07-01,"P105","Sugar","Grocery",12
+2026-07-01,"P106","Coffee","Beverages",11
+2026-07-02,"P101","Rice","Grocery",26
+2026-07-02,"P102","Cooking Oil","Grocery",9
+2026-07-02,"P103","Milk","Dairy",34
+2026-07-02,"P104","Bread","Bakery",19
+2026-07-02,"P105","Sugar","Grocery",14
+2026-07-02,"P106","Coffee","Beverages",7
+2026-07-03,"P101","Rice","Grocery",24
+2026-07-03,"P102","Cooking Oil","Grocery",15
+2026-07-03,"P103","Milk","Dairy",35
+2026-07-03,"P104","Bread","Bakery",19
+2026-07-03,"P105","Sugar","Grocery",12
+2026-07-03,"P106","Coffee","Beverages",10
+2026-07-04,"P101","Rice","Grocery",28
+2026-07-04,"P102","Cooking Oil","Grocery",16
+2026-07-04,"P103","Milk","Dairy",31
+2026-07-04,"P104","Bread","Bakery",22
+2026-07-04,"P105","Sugar","Grocery",15
+2026-07-04,"P106","Coffee","Beverages",7
+2026-07-05,"P101","Rice","Grocery",36
+2026-07-05,"P102","Cooking Oil","Grocery",8
+2026-07-05,"P103","Milk","Dairy",20
+2026-07-05,"P104","Bread","Bakery",29
+2026-07-05,"P105","Sugar","Grocery",16
+2026-07-05,"P106","Coffee","Beverages",7
+2026-07-06,"P101","Rice","Grocery",23
+2026-07-06,"P102","Cooking Oil","Grocery",10
+2026-07-06,"P103","Milk","Dairy",29
+2026-07-06,"P104","Bread","Bakery",25
+2026-07-06,"P105","Sugar","Grocery",20
+2026-07-06,"P106","Coffee","Beverages",18
+2026-07-07,"P101","Rice","Grocery",32
+2026-07-07,"P102","Cooking Oil","Grocery",9
+2026-07-07,"P103","Milk","Dairy",37
+2026-07-07,"P104","Bread","Bakery",23
+2026-07-07,"P105","Sugar","Grocery",19
+2026-07-07,"P106","Coffee","Beverages",15
+2026-07-08,"P101","Rice","Grocery",17
+2026-07-08,"P102","Cooking Oil","Grocery",12
+2026-07-08,"P103","Milk","Dairy",37
+2026-07-08,"P104","Bread","Bakery",18
+2026-07-08,"P105","Sugar","Grocery",13
+2026-07-08,"P106","Coffee","Beverages",8
+2026-07-09,"P101","Rice","Grocery",19
+2026-07-09,"P102","Cooking Oil","Grocery",13
+2026-07-09,"P103","Milk","Dairy",24
+2026-07-09,"P104","Bread","Bakery",21
+2026-07-09,"P105","Sugar","Grocery",17
+2026-07-09,"P106","Coffee","Beverages",10
+2026-07-10,"P101","Rice","Grocery",26
+2026-07-10,"P102","Cooking Oil","Grocery",12
+2026-07-10,"P103","Milk","Dairy",29
+2026-07-10,"P104","Bread","Bakery",21
+2026-07-10,"P105","Sugar","Grocery",16
+2026-07-10,"P106","Coffee","Beverages",7
+2026-07-11,"P101","Rice","Grocery",30
+2026-07-11,"P102","Cooking Oil","Grocery",7
+2026-07-11,"P103","Milk","Dairy",30
+2026-07-11,"P104","Bread","Bakery",18
+2026-07-11,"P105","Sugar","Grocery",27
+2026-07-11,"P106","Coffee","Beverages",7
+2026-07-12,"P101","Rice","Grocery",26
+2026-07-12,"P102","Cooking Oil","Grocery",10
+2026-07-12,"P103","Milk","Dairy",35
+2026-07-12,"P104","Bread","Bakery",22
+2026-07-12,"P105","Sugar","Grocery",19
+2026-07-12,"P106","Coffee","Beverages",10
+2026-07-13,"P101","Rice","Grocery",35
+2026-07-13,"P102","Cooking Oil","Grocery",11
+2026-07-13,"P103","Milk","Dairy",31
+2026-07-13,"P104","Bread","Bakery",23
+2026-07-13,"P105","Sugar","Grocery",15
+2026-07-13,"P106","Coffee","Beverages",7
+2026-07-14,"P101","Rice","Grocery",18
+2026-07-14,"P102","Cooking Oil","Grocery",12
+2026-07-14,"P103","Milk","Dairy",33
+2026-07-14,"P104","Bread","Bakery",19
+2026-07-14,"P105","Sugar","Grocery",18
+2026-07-14,"P106","Coffee","Beverages",4
+2026-07-15,"P101","Rice","Grocery",26
+2026-07-15,"P102","Cooking Oil","Grocery",12
+2026-07-15,"P103","Milk","Dairy",26
+2026-07-15,"P104","Bread","Bakery",17
+2026-07-15,"P105","Sugar","Grocery",15
+2026-07-15,"P106","Coffee","Beverages",14
+2026-07-16,"P101","Rice","Grocery",27
+2026-07-16,"P102","Cooking Oil","Grocery",12
+2026-07-16,"P103","Milk","Dairy",35
+2026-07-16,"P104","Bread","Bakery",22
+2026-07-16,"P105","Sugar","Grocery",12
+2026-07-16,"P106","Coffee","Beverages",9
+2026-07-17,"P101","Rice","Grocery",25
+2026-07-17,"P102","Cooking Oil","Grocery",17
+2026-07-17,"P103","Milk","Dairy",29
+2026-07-17,"P104","Bread","Bakery",20
+2026-07-17,"P105","Sugar","Grocery",15
+2026-07-17,"P106","Coffee","Beverages",11
+2026-07-18,"P101","Rice","Grocery",33
+2026-07-18,"P102","Cooking Oil","Grocery",12
+2026-07-18,"P103","Milk","Dairy",31
+2026-07-18,"P104","Bread","Bakery",19
+2026-07-18,"P105","Sugar","Grocery",18
+2026-07-18,"P106","Coffee","Beverages",9
+2026-07-19,"P101","Rice","Grocery",39
+2026-07-19,"P102","Cooking Oil","Grocery",14
+2026-07-19,"P103","Milk","Dairy",33
+2026-07-19,"P104","Bread","Bakery",17
+2026-07-19,"P105","Sugar","Grocery",18
+2026-07-19,"P106","Coffee","Beverages",6
+2026-07-20,"P101","Rice","Grocery",22
+2026-07-20,"P102","Cooking Oil","Grocery",16
+2026-07-20,"P103","Milk","Dairy",25
+2026-07-20,"P104","Bread","Bakery",23
+2026-07-20,"P105","Sugar","Grocery",8
+2026-07-20,"P106","Coffee","Beverages",9
+2026-07-21,"P101","Rice","Grocery",20
+2026-07-21,"P102","Cooking Oil","Grocery",15
+2026-07-21,"P103","Milk","Dairy",34
+2026-07-21,"P104","Bread","Bakery",11
+2026-07-21,"P105","Sugar","Grocery",16
+2026-07-21,"P106","Coffee","Beverages",3
+2026-07-22,"P101","Rice","Grocery",21
+2026-07-22,"P102","Cooking Oil","Grocery",15
+2026-07-22,"P103","Milk","Dairy",31
+2026-07-22,"P104","Bread","Bakery",15
+2026-07-22,"P105","Sugar","Grocery",9
+2026-07-22,"P106","Coffee","Beverages",5
+2026-07-23,"P101","Rice","Grocery",28
+2026-07-23,"P102","Cooking Oil","Grocery",9
+2026-07-23,"P103","Milk","Dairy",26
+2026-07-23,"P104","Bread","Bakery",22
+2026-07-23,"P105","Sugar","Grocery",18
+2026-07-23,"P106","Coffee","Beverages",12
+2026-07-24,"P101","Rice","Grocery",24
+2026-07-24,"P102","Cooking Oil","Grocery",12
+2026-07-24,"P103","Milk","Dairy",31
+2026-07-24,"P104","Bread","Bakery",22
+2026-07-24,"P105","Sugar","Grocery",18
+2026-07-24,"P106","Coffee","Beverages",5
+2026-07-25,"P101","Rice","Grocery",25
+2026-07-25,"P102","Cooking Oil","Grocery",20
+2026-07-25,"P103","Milk","Dairy",39
+2026-07-25,"P104","Bread","Bakery",22
+2026-07-25,"P105","Sugar","Grocery",26
+2026-07-25,"P106","Coffee","Beverages",7
+2026-07-26,"P101","Rice","Grocery",29
+2026-07-26,"P102","Cooking Oil","Grocery",18
+2026-07-26,"P103","Milk","Dairy",35
+2026-07-26,"P104","Bread","Bakery",22
+2026-07-26,"P105","Sugar","Grocery",17
+2026-07-26,"P106","Coffee","Beverages",7
+2026-07-27,"P101","Rice","Grocery",24
+2026-07-27,"P102","Cooking Oil","Grocery",9
+2026-07-27,"P103","Milk","Dairy",26
+2026-07-27,"P104","Bread","Bakery",24
+2026-07-27,"P105","Sugar","Grocery",15
+2026-07-27,"P106","Coffee","Beverages",6
+2026-07-28,"P101","Rice","Grocery",25
+2026-07-28,"P102","Cooking Oil","Grocery",10
+2026-07-28,"P103","Milk","Dairy",30
+2026-07-28,"P104","Bread","Bakery",23
+2026-07-28,"P105","Sugar","Grocery",15
+2026-07-28,"P106","Coffee","Beverages",6
+2026-07-29,"P101","Rice","Grocery",26
+2026-07-29,"P102","Cooking Oil","Grocery",14
+2026-07-29,"P103","Milk","Dairy",23
+2026-07-29,"P104","Bread","Bakery",24
+2026-07-29,"P105","Sugar","Grocery",15
+2026-07-29,"P106","Coffee","Beverages",3
+2026-07-30,"P101","Rice","Grocery",23
+2026-07-30,"P102","Cooking Oil","Grocery",15
+2026-07-30,"P103","Milk","Dairy",24
+2026-07-30,"P104","Bread","Bakery",30
+2026-07-30,"P105","Sugar","Grocery",15
+2026-07-30,"P106","Coffee","Beverages",12
+2026-07-31,"P101","Rice","Grocery",28
+2026-07-31,"P102","Cooking Oil","Grocery",10
+2026-07-31,"P103","Milk","Dairy",29
+2026-07-31,"P104","Bread","Bakery",22
+2026-07-31,"P105","Sugar","Grocery",18
+2026-07-31,"P106","Coffee","Beverages",13
+2026-08-01,"P101","Rice","Grocery",27
+2026-08-01,"P102","Cooking Oil","Grocery",8
+2026-08-01,"P103","Milk","Dairy",37
+2026-08-01,"P104","Bread","Bakery",23
+2026-08-01,"P105","Sugar","Grocery",20
+2026-08-01,"P106","Coffee","Beverages",14
+2026-08-02,"P101","Rice","Grocery",30
+2026-08-02,"P102","Cooking Oil","Grocery",14
+2026-08-02,"P103","Milk","Dairy",34
+2026-08-02,"P104","Bread","Bakery",12
+2026-08-02,"P105","Sugar","Grocery",14
+2026-08-02,"P106","Coffee","Beverages",9
+2026-08-03,"P101","Rice","Grocery",30
+2026-08-03,"P102","Cooking Oil","Grocery",16
+2026-08-03,"P103","Milk","Dairy",42
+2026-08-03,"P104","Bread","Bakery",23
+2026-08-03,"P105","Sugar","Grocery",23
+2026-08-03,"P106","Coffee","Beverages",7
+2026-08-04,"P101","Rice","Grocery",27
+2026-08-04,"P102","Cooking Oil","Grocery",19
+2026-08-04,"P103","Milk","Dairy",36
+2026-08-04,"P104","Bread","Bakery",23
+2026-08-04,"P105","Sugar","Grocery",12
+2026-08-04,"P106","Coffee","Beverages",4
+2026-08-05,"P101","Rice","Grocery",23
+2026-08-05,"P102","Cooking Oil","Grocery",16
+2026-08-05,"P103","Milk","Dairy",30
+2026-08-05,"P104","Bread","Bakery",16
+2026-08-05,"P105","Sugar","Grocery",11
+2026-08-05,"P106","Coffee","Beverages",7
+2026-08-06,"P101","Rice","Grocery",30
+2026-08-06,"P102","Cooking Oil","Grocery",14
+2026-08-06,"P103","Milk","Dairy",32
+2026-08-06,"P104","Bread","Bakery",26
+2026-08-06,"P105","Sugar","Grocery",14
+2026-08-06,"P106","Coffee","Beverages",12
+2026-08-07,"P101","Rice","Grocery",29
+2026-08-07,"P102","Cooking Oil","Grocery",6
+2026-08-07,"P103","Milk","Dairy",26
+2026-08-07,"P104","Bread","Bakery",19
+2026-08-07,"P105","Sugar","Grocery",17
+2026-08-07,"P106","Coffee","Beverages",7
+2026-08-08,"P101","Rice","Grocery",31
+2026-08-08,"P102","Cooking Oil","Grocery",17
+2026-08-08,"P103","Milk","Dairy",28
+2026-08-08,"P104","Bread","Bakery",25
+2026-08-08,"P105","Sugar","Grocery",13
+2026-08-08,"P106","Coffee","Beverages",9
+2026-08-09,"P101","Rice","Grocery",30
+2026-08-09,"P102","Cooking Oil","Grocery",11
+2026-08-09,"P103","Milk","Dairy",26
+2026-08-09,"P104","Bread","Bakery",24
+2026-08-09,"P105","Sugar","Grocery",12
+2026-08-09,"P106","Coffee","Beverages",9
+2026-08-10,"P101","Rice","Grocery",21
+2026-08-10,"P102","Cooking Oil","Grocery",11
+2026-08-10,"P103","Milk","Dairy",23
+2026-08-10,"P104","Bread","Bakery",19
+2026-08-10,"P105","Sugar","Grocery",13
+2026-08-10,"P106","Coffee","Beverages",5
+2026-08-11,"P101","Rice","Grocery",31
+2026-08-11,"P102","Cooking Oil","Grocery",7
+2026-08-11,"P103","Milk","Dairy",34
+2026-08-11,"P104","Bread","Bakery",19
+2026-08-11,"P105","Sugar","Grocery",8
+2026-08-11,"P106","Coffee","Beverages",8
+2026-08-12,"P101","Rice","Grocery",22
+2026-08-12,"P102","Cooking Oil","Grocery",14
+2026-08-12,"P103","Milk","Dairy",36
+2026-08-12,"P104","Bread","Bakery",24
+2026-08-12,"P105","Sugar","Grocery",12
+2026-08-12,"P106","Coffee","Beverages",5
+2026-08-13,"P101","Rice","Grocery",32
+2026-08-13,"P102","Cooking Oil","Grocery",11
+2026-08-13,"P103","Milk","Dairy",31
+2026-08-13,"P104","Bread","Bakery",19
+2026-08-13,"P105","Sugar","Grocery",15
+2026-08-13,"P106","Coffee","Beverages",9
+2026-08-14,"P101","Rice","Grocery",23
+2026-08-14,"P102","Cooking Oil","Grocery",14
+2026-08-14,"P103","Milk","Dairy",26
+2026-08-14,"P104","Bread","Bakery",10
+2026-08-14,"P105","Sugar","Grocery",16
+2026-08-14,"P106","Coffee","Beverages",8
+2026-08-15,"P101","Rice","Grocery",23
+2026-08-15,"P102","Cooking Oil","Grocery",12
+2026-08-15,"P103","Milk","Dairy",32
+2026-08-15,"P104","Bread","Bakery",29
+2026-08-15,"P105","Sugar","Grocery",15
+2026-08-15,"P106","Coffee","Beverages",7
+2026-08-16,"P101","Rice","Grocery",38
+2026-08-16,"P102","Cooking Oil","Grocery",14
+2026-08-16,"P103","Milk","Dairy",31
+2026-08-16,"P104","Bread","Bakery",25
+2026-08-16,"P105","Sugar","Grocery",20
+2026-08-16,"P106","Coffee","Beverages",13
+2026-08-17,"P101","Rice","Grocery",25
+2026-08-17,"P102","Cooking Oil","Grocery",7
+2026-08-17,"P103","Milk","Dairy",26
+2026-08-17,"P104","Bread","Bakery",12
+2026-08-17,"P105","Sugar","Grocery",10
+2026-08-17,"P106","Coffee","Beverages",6
+2026-08-18,"P101","Rice","Grocery",30
+2026-08-18,"P102","Cooking Oil","Grocery",14
+2026-08-18,"P103","Milk","Dairy",34
+2026-08-18,"P104","Bread","Bakery",16
+2026-08-18,"P105","Sugar","Grocery",10
+2026-08-18,"P106","Coffee","Beverages",7
+2026-08-19,"P101","Rice","Grocery",22
+2026-08-19,"P102","Cooking Oil","Grocery",11
+2026-08-19,"P103","Milk","Dairy",34
+2026-08-19,"P104","Bread","Bakery",25
+2026-08-19,"P105","Sugar","Grocery",16
+2026-08-19,"P106","Coffee","Beverages",11
+2026-08-20,"P101","Rice","Grocery",24
+2026-08-20,"P102","Cooking Oil","Grocery",14
+2026-08-20,"P103","Milk","Dairy",23
+2026-08-20,"P104","Bread","Bakery",18
+2026-08-20,"P105","Sugar","Grocery",14
+2026-08-20,"P106","Coffee","Beverages",6
+2026-08-21,"P101","Rice","Grocery",21
+2026-08-21,"P102","Cooking Oil","Grocery",16
+2026-08-21,"P103","Milk","Dairy",33
+2026-08-21,"P104","Bread","Bakery",18
+2026-08-21,"P105","Sugar","Grocery",19
+2026-08-21,"P106","Coffee","Beverages",6
+2026-08-22,"P101","Rice","Grocery",31
+2026-08-22,"P102","Cooking Oil","Grocery",13
+2026-08-22,"P103","Milk","Dairy",36
+2026-08-22,"P104","Bread","Bakery",30
+2026-08-22,"P105","Sugar","Grocery",11
+2026-08-22,"P106","Coffee","Beverages",13
+2026-08-23,"P101","Rice","Grocery",27
+2026-08-23,"P102","Cooking Oil","Grocery",17
+2026-08-23,"P103","Milk","Dairy",29
+2026-08-23,"P104","Bread","Bakery",15
+2026-08-23,"P105","Sugar","Grocery",20
+2026-08-23,"P106","Coffee","Beverages",10
+2026-08-24,"P101","Rice","Grocery",31
+2026-08-24,"P102","Cooking Oil","Grocery",7
+2026-08-24,"P103","Milk","Dairy",25
+2026-08-24,"P104","Bread","Bakery",20
+2026-08-24,"P105","Sugar","Grocery",14
+2026-08-24,"P106","Coffee","Beverages",11
+2026-08-25,"P101","Rice","Grocery",33
+2026-08-25,"P102","Cooking Oil","Grocery",7
+2026-08-25,"P103","Milk","Dairy",30
+2026-08-25,"P104","Bread","Bakery",17
+2026-08-25,"P105","Sugar","Grocery",10
+2026-08-25,"P106","Coffee","Beverages",8
+2026-08-26,"P101","Rice","Grocery",27
+2026-08-26,"P102","Cooking Oil","Grocery",13
+2026-08-26,"P103","Milk","Dairy",38
+2026-08-26,"P104","Bread","Bakery",21
+2026-08-26,"P105","Sugar","Grocery",14
+2026-08-26,"P106","Coffee","Beverages",12
+2026-08-27,"P101","Rice","Grocery",23
+2026-08-27,"P102","Cooking Oil","Grocery",15
+2026-08-27,"P103","Milk","Dairy",32
+2026-08-27,"P104","Bread","Bakery",28
+2026-08-27,"P105","Sugar","Grocery",14
+2026-08-27,"P106","Coffee","Beverages",5
+2026-08-28,"P101","Rice","Grocery",25
+2026-08-28,"P102","Cooking Oil","Grocery",12
+2026-08-28,"P103","Milk","Dairy",35
+2026-08-28,"P104","Bread","Bakery",19
+2026-08-28,"P105","Sugar","Grocery",5
+2026-08-28,"P106","Coffee","Beverages",9
+2026-08-29,"P101","Rice","Grocery",36
+2026-08-29,"P102","Cooking Oil","Grocery",10
+2026-08-29,"P103","Milk","Dairy",32
+2026-08-29,"P104","Bread","Bakery",21
+2026-08-29,"P105","Sugar","Grocery",14
+2026-08-29,"P106","Coffee","Beverages",11
+2026-08-30,"P101","Rice","Grocery",27
+2026-08-30,"P102","Cooking Oil","Grocery",16
+2026-08-30,"P103","Milk","Dairy",33
+2026-08-30,"P104","Bread","Bakery",25
+2026-08-30,"P105","Sugar","Grocery",27
+2026-08-30,"P106","Coffee","Beverages",7
+2026-08-31,"P101","Rice","Grocery",17
+2026-08-31,"P102","Cooking Oil","Grocery",15
+2026-08-31,"P103","Milk","Dairy",26
+2026-08-31,"P104","Bread","Bakery",18
+2026-08-31,"P105","Sugar","Grocery",17
+2026-08-31,"P106","Coffee","Beverages",8
+2026-09-01,"P101","Rice","Grocery",20
+2026-09-01,"P102","Cooking Oil","Grocery",17
+2026-09-01,"P103","Milk","Dairy",25
+2026-09-01,"P104","Bread","Bakery",23
+2026-09-01,"P105","Sugar","Grocery",13
+2026-09-01,"P106","Coffee","Beverages",9
+2026-09-02,"P101","Rice","Grocery",29
+2026-09-02,"P102","Cooking Oil","Grocery",12
+2026-09-02,"P103","Milk","Dairy",24
+2026-09-02,"P104","Bread","Bakery",24
+2026-09-02,"P105","Sugar","Grocery",25
+2026-09-02,"P106","Coffee","Beverages",12
+2026-09-03,"P101","Rice","Grocery",27
+2026-09-03,"P102","Cooking Oil","Grocery",11
+2026-09-03,"P103","Milk","Dairy",30
+2026-09-03,"P104","Bread","Bakery",20
+2026-09-03,"P105","Sugar","Grocery",25
+2026-09-03,"P106","Coffee","Beverages",7
+2026-09-04,"P101","Rice","Grocery",26
+2026-09-04,"P102","Cooking Oil","Grocery",5
+2026-09-04,"P103","Milk","Dairy",30
+2026-09-04,"P104","Bread","Bakery",14
+2026-09-04,"P105","Sugar","Grocery",10
+2026-09-04,"P106","Coffee","Beverages",8
+2026-09-05,"P101","Rice","Grocery",31
+2026-09-05,"P102","Cooking Oil","Grocery",9
+2026-09-05,"P103","Milk","Dairy",39
+2026-09-05,"P104","Bread","Bakery",28
+2026-09-05,"P105","Sugar","Grocery",18
+2026-09-05,"P106","Coffee","Beverages",2
+2026-09-06,"P101","Rice","Grocery",38
+2026-09-06,"P102","Cooking Oil","Grocery",10
+2026-09-06,"P103","Milk","Dairy",35
+2026-09-06,"P104","Bread","Bakery",13
+2026-09-06,"P105","Sugar","Grocery",19
+2026-09-06,"P106","Coffee","Beverages",8
+2026-09-07,"P101","Rice","Grocery",28
+2026-09-07,"P102","Cooking Oil","Grocery",10
+2026-09-07,"P103","Milk","Dairy",33
+2026-09-07,"P104","Bread","Bakery",31
+2026-09-07,"P105","Sugar","Grocery",15
+2026-09-07,"P106","Coffee","Beverages",9
+2026-09-08,"P101","Rice","Grocery",21
+2026-09-08,"P102","Cooking Oil","Grocery",9
+2026-09-08,"P103","Milk","Dairy",26
+2026-09-08,"P104","Bread","Bakery",30
+2026-09-08,"P105","Sugar","Grocery",12
+2026-09-08,"P106","Coffee","Beverages",9
+2026-09-09,"P101","Rice","Grocery",25
+2026-09-09,"P102","Cooking Oil","Grocery",10
+2026-09-09,"P103","Milk","Dairy",35
+2026-09-09,"P104","Bread","Bakery",21
+2026-09-09,"P105","Sugar","Grocery",16
+2026-09-09,"P106","Coffee","Beverages",11
+2026-09-10,"P101","Rice","Grocery",20
+2026-09-10,"P102","Cooking Oil","Grocery",12
+2026-09-10,"P103","Milk","Dairy",22
+2026-09-10,"P104","Bread","Bakery",19
+2026-09-10,"P105","Sugar","Grocery",21
+2026-09-10,"P106","Coffee","Beverages",5
+2026-09-11,"P101","Rice","Grocery",30
+2026-09-11,"P102","Cooking Oil","Grocery",8
+2026-09-11,"P103","Milk","Dairy",28
+2026-09-11,"P104","Bread","Bakery",23
+2026-09-11,"P105","Sugar","Grocery",14
+2026-09-11,"P106","Coffee","Beverages",9
+2026-09-12,"P101","Rice","Grocery",35
+2026-09-12,"P102","Cooking Oil","Grocery",13
+2026-09-12,"P103","Milk","Dairy",36
+2026-09-12,"P104","Bread","Bakery",24
+2026-09-12,"P105","Sugar","Grocery",16
+2026-09-12,"P106","Coffee","Beverages",7
+2026-09-13,"P101","Rice","Grocery",37
+2026-09-13,"P102","Cooking Oil","Grocery",16
+2026-09-13,"P103","Milk","Dairy",28
+2026-09-13,"P104","Bread","Bakery",20
+2026-09-13,"P105","Sugar","Grocery",23
+2026-09-13,"P106","Coffee","Beverages",10
+2026-09-14,"P101","Rice","Grocery",25
+2026-09-14,"P102","Cooking Oil","Grocery",10
+2026-09-14,"P103","Milk","Dairy",33
+2026-09-14,"P104","Bread","Bakery",15
+2026-09-14,"P105","Sugar","Grocery",18
+2026-09-14,"P106","Coffee","Beverages",9
+2026-09-15,"P101","Rice","Grocery",23
+2026-09-15,"P102","Cooking Oil","Grocery",22
+2026-09-15,"P103","Milk","Dairy",30
+2026-09-15,"P104","Bread","Bakery",21
+2026-09-15,"P105","Sugar","Grocery",8
+2026-09-15,"P106","Coffee","Beverages",8
+2026-09-16,"P101","Rice","Grocery",25
+2026-09-16,"P102","Cooking Oil","Grocery",14
+2026-09-16,"P103","Milk","Dairy",21
+2026-09-16,"P104","Bread","Bakery",17
+2026-09-16,"P105","Sugar","Grocery",9
+2026-09-16,"P106","Coffee","Beverages",7
+2026-09-17,"P101","Rice","Grocery",36
+2026-09-17,"P102","Cooking Oil","Grocery",12
+2026-09-17,"P103","Milk","Dairy",25
+2026-09-17,"P104","Bread","Bakery",27
+2026-09-17,"P105","Sugar","Grocery",20
+2026-09-17,"P106","Coffee","Beverages",9
+2026-09-18,"P101","Rice","Grocery",34
+2026-09-18,"P102","Cooking Oil","Grocery",15
+2026-09-18,"P103","Milk","Dairy",29
+2026-09-18,"P104","Bread","Bakery",20
+2026-09-18,"P105","Sugar","Grocery",16
+2026-09-18,"P106","Coffee","Beverages",8
+2026-09-19,"P101","Rice","Grocery",21
+2026-09-19,"P102","Cooking Oil","Grocery",16
+2026-09-19,"P103","Milk","Dairy",27
+2026-09-19,"P104","Bread","Bakery",22
+2026-09-19,"P105","Sugar","Grocery",20
+2026-09-19,"P106","Coffee","Beverages",7
+2026-09-20,"P101","Rice","Grocery",22
+2026-09-20,"P102","Cooking Oil","Grocery",13
+2026-09-20,"P103","Milk","Dairy",31
+2026-09-20,"P104","Bread","Bakery",33
+2026-09-20,"P105","Sugar","Grocery",12
+2026-09-20,"P106","Coffee","Beverages",9
+2026-09-21,"P101","Rice","Grocery",36
+2026-09-21,"P102","Cooking Oil","Grocery",13
+2026-09-21,"P103","Milk","Dairy",28
+2026-09-21,"P104","Bread","Bakery",21
+2026-09-21,"P105","Sugar","Grocery",18
+2026-09-21,"P106","Coffee","Beverages",4
+2026-09-22,"P101","Rice","Grocery",13
+2026-09-22,"P102","Cooking Oil","Grocery",8
+2026-09-22,"P103","Milk","Dairy",32
+2026-09-22,"P104","Bread","Bakery",19
+2026-09-22,"P105","Sugar","Grocery",21
+2026-09-22,"P106","Coffee","Beverages",6
+2026-09-23,"P101","Rice","Grocery",26
+2026-09-23,"P102","Cooking Oil","Grocery",19
+2026-09-23,"P103","Milk","Dairy",25
+2026-09-23,"P104","Bread","Bakery",25
+2026-09-23,"P105","Sugar","Grocery",16
+2026-09-23,"P106","Coffee","Beverages",8
+2026-09-24,"P101","Rice","Grocery",19
+2026-09-24,"P102","Cooking Oil","Grocery",21
+2026-09-24,"P103","Milk","Dairy",28
+2026-09-24,"P104","Bread","Bakery",24
+2026-09-24,"P105","Sugar","Grocery",15
+2026-09-24,"P106","Coffee","Beverages",3
+2026-09-25,"P101","Rice","Grocery",24
+2026-09-25,"P102","Cooking Oil","Grocery",14
+2026-09-25,"P103","Milk","Dairy",31
+2026-09-25,"P104","Bread","Bakery",16
+2026-09-25,"P105","Sugar","Grocery",22
+2026-09-25,"P106","Coffee","Beverages",6
+2026-09-26,"P101","Rice","Grocery",28
+2026-09-26,"P102","Cooking Oil","Grocery",15
+2026-09-26,"P103","Milk","Dairy",29
+2026-09-26,"P104","Bread","Bakery",26
+2026-09-26,"P105","Sugar","Grocery",13
+2026-09-26,"P106","Coffee","Beverages",10
+2026-09-27,"P101","Rice","Grocery",20
+2026-09-27,"P102","Cooking Oil","Grocery",11
+2026-09-27,"P103","Milk","Dairy",39
+2026-09-27,"P104","Bread","Bakery",22
+2026-09-27,"P105","Sugar","Grocery",12
+2026-09-27,"P106","Coffee","Beverages",11
+2026-09-28,"P101","Rice","Grocery",29
+2026-09-28,"P102","Cooking Oil","Grocery",6
+2026-09-28,"P103","Milk","Dairy",28
+2026-09-28,"P104","Bread","Bakery",25
+2026-09-28,"P105","Sugar","Grocery",13
+2026-09-28,"P106","Coffee","Beverages",10
+2026-09-29,"P101","Rice","Grocery",23
+2026-09-29,"P102","Cooking Oil","Grocery",11
+2026-09-29,"P103","Milk","Dairy",32
+2026-09-29,"P104","Bread","Bakery",15
+2026-09-29,"P105","Sugar","Grocery",16
+2026-09-29,"P106","Coffee","Beverages",4
+2026-09-30,"P101","Rice","Grocery",30
+2026-09-30,"P102","Cooking Oil","Grocery",5
+2026-09-30,"P103","Milk","Dairy",23
+2026-09-30,"P104","Bread","Bakery",23
+2026-09-30,"P105","Sugar","Grocery",11
+2026-09-30,"P106","Coffee","Beverages",4
+2026-10-01,"P101","Rice","Grocery",19
+2026-10-01,"P102","Cooking Oil","Grocery",9
+2026-10-01,"P103","Milk","Dairy",33
+2026-10-01,"P104","Bread","Bakery",24
+2026-10-01,"P105","Sugar","Grocery",7
+2026-10-01,"P106","Coffee","Beverages",13
+2026-10-02,"P101","Rice","Grocery",32
+2026-10-02,"P102","Cooking Oil","Grocery",12
+2026-10-02,"P103","Milk","Dairy",25
+2026-10-02,"P104","Bread","Bakery",27
+2026-10-02,"P105","Sugar","Grocery",21
+2026-10-02,"P106","Coffee","Beverages",12
+2026-10-03,"P101","Rice","Grocery",32
+2026-10-03,"P102","Cooking Oil","Grocery",9
+2026-10-03,"P103","Milk","Dairy",45
+2026-10-03,"P104","Bread","Bakery",30
+2026-10-03,"P105","Sugar","Grocery",17
+2026-10-03,"P106","Coffee","Beverages",14
+2026-10-04,"P101","Rice","Grocery",26
+2026-10-04,"P102","Cooking Oil","Grocery",15
+2026-10-04,"P103","Milk","Dairy",40
+2026-10-04,"P104","Bread","Bakery",28
+2026-10-04,"P105","Sugar","Grocery",18
+2026-10-04,"P106","Coffee","Beverages",10
+2026-10-05,"P101","Rice","Grocery",26
+2026-10-05,"P102","Cooking Oil","Grocery",15
+2026-10-05,"P103","Milk","Dairy",29
+2026-10-05,"P104","Bread","Bakery",14
+2026-10-05,"P105","Sugar","Grocery",14
+2026-10-05,"P106","Coffee","Beverages",5
+2026-10-06,"P101","Rice","Grocery",35
+2026-10-06,"P102","Cooking Oil","Grocery",15
+2026-10-06,"P103","Milk","Dairy",29
+2026-10-06,"P104","Bread","Bakery",18
+2026-10-06,"P105","Sugar","Grocery",16
+2026-10-06,"P106","Coffee","Beverages",12
+2026-10-07,"P101","Rice","Grocery",19
+2026-10-07,"P102","Cooking Oil","Grocery",9
+2026-10-07,"P103","Milk","Dairy",21
+2026-10-07,"P104","Bread","Bakery",29
+2026-10-07,"P105","Sugar","Grocery",11
+2026-10-07,"P106","Coffee","Beverages",12
+2026-10-08,"P101","Rice","Grocery",24
+2026-10-08,"P102","Cooking Oil","Grocery",13
+2026-10-08,"P103","Milk","Dairy",30
+2026-10-08,"P104","Bread","Bakery",18
+2026-10-08,"P105","Sugar","Grocery",18
+2026-10-08,"P106","Coffee","Beverages",5
+2026-10-09,"P101","Rice","Grocery",35
+2026-10-09,"P102","Cooking Oil","Grocery",9
+2026-10-09,"P103","Milk","Dairy",46
+2026-10-09,"P104","Bread","Bakery",18
+2026-10-09,"P105","Sugar","Grocery",12
+2026-10-09,"P106","Coffee","Beverages",4
+2026-10-10,"P101","Rice","Grocery",24
+2026-10-10,"P102","Cooking Oil","Grocery",15
+2026-10-10,"P103","Milk","Dairy",34
+2026-10-10,"P104","Bread","Bakery",20
+2026-10-10,"P105","Sugar","Grocery",17
+2026-10-10,"P106","Coffee","Beverages",10
+2026-10-11,"P101","Rice","Grocery",38
+2026-10-11,"P102","Cooking Oil","Grocery",13
+2026-10-11,"P103","Milk","Dairy",39
+2026-10-11,"P104","Bread","Bakery",33
+2026-10-11,"P105","Sugar","Grocery",20
+2026-10-11,"P106","Coffee","Beverages",8
+2026-10-12,"P101","Rice","Grocery",20
+2026-10-12,"P102","Cooking Oil","Grocery",4
+2026-10-12,"P103","Milk","Dairy",34
+2026-10-12,"P104","Bread","Bakery",21
+2026-10-12,"P105","Sugar","Grocery",17
+2026-10-12,"P106","Coffee","Beverages",8
+2026-10-13,"P101","Rice","Grocery",27
+2026-10-13,"P102","Cooking Oil","Grocery",17
+2026-10-13,"P103","Milk","Dairy",38
+2026-10-13,"P104","Bread","Bakery",17
+2026-10-13,"P105","Sugar","Grocery",20
+2026-10-13,"P106","Coffee","Beverages",8
+2026-10-14,"P101","Rice","Grocery",22
+2026-10-14,"P102","Cooking Oil","Grocery",9
+2026-10-14,"P103","Milk","Dairy",30
+2026-10-14,"P104","Bread","Bakery",32
+2026-10-14,"P105","Sugar","Grocery",12
+2026-10-14,"P106","Coffee","Beverages",10
+2026-10-15,"P101","Rice","Grocery",20
+2026-10-15,"P102","Cooking Oil","Grocery",11
+2026-10-15,"P103","Milk","Dairy",36
+2026-10-15,"P104","Bread","Bakery",17
+2026-10-15,"P105","Sugar","Grocery",7
+2026-10-15,"P106","Coffee","Beverages",11
+2026-10-16,"P101","Rice","Grocery",23
+2026-10-16,"P102","Cooking Oil","Grocery",9
+2026-10-16,"P103","Milk","Dairy",20
+2026-10-16,"P104","Bread","Bakery",21
+2026-10-16,"P105","Sugar","Grocery",14
+2026-10-16,"P106","Coffee","Beverages",6
+2026-10-17,"P101","Rice","Grocery",24
+2026-10-17,"P102","Cooking Oil","Grocery",13
+2026-10-17,"P103","Milk","Dairy",40
+2026-10-17,"P104","Bread","Bakery",31
+2026-10-17,"P105","Sugar","Grocery",13
+2026-10-17,"P106","Coffee","Beverages",11
+2026-10-18,"P101","Rice","Grocery",28
+2026-10-18,"P102","Cooking Oil","Grocery",9
+2026-10-18,"P103","Milk","Dairy",44
+2026-10-18,"P104","Bread","Bakery",16
+2026-10-18,"P105","Sugar","Grocery",12
+2026-10-18,"P106","Coffee","Beverages",9
+2026-10-19,"P101","Rice","Grocery",22
+2026-10-19,"P102","Cooking Oil","Grocery",18
+2026-10-19,"P103","Milk","Dairy",20
+2026-10-19,"P104","Bread","Bakery",24
+2026-10-19,"P105","Sugar","Grocery",14
+2026-10-19,"P106","Coffee","Beverages",4
+2026-10-20,"P101","Rice","Grocery",25
+2026-10-20,"P102","Cooking Oil","Grocery",11
+2026-10-20,"P103","Milk","Dairy",38
+2026-10-20,"P104","Bread","Bakery",27
+2026-10-20,"P105","Sugar","Grocery",21
+2026-10-20,"P106","Coffee","Beverages",3
+2026-10-21,"P101","Rice","Grocery",28
+2026-10-21,"P102","Cooking Oil","Grocery",13
+2026-10-21,"P103","Milk","Dairy",22
+2026-10-21,"P104","Bread","Bakery",19
+2026-10-21,"P105","Sugar","Grocery",17
+2026-10-21,"P106","Coffee","Beverages",6
+2026-10-22,"P101","Rice","Grocery",22
+2026-10-22,"P102","Cooking Oil","Grocery",13
+2026-10-22,"P103","Milk","Dairy",29
+2026-10-22,"P104","Bread","Bakery",22
+2026-10-22,"P105","Sugar","Grocery",13
+2026-10-22,"P106","Coffee","Beverages",6
+2026-10-23,"P101","Rice","Grocery",28
+2026-10-23,"P102","Cooking Oil","Grocery",16
+2026-10-23,"P103","Milk","Dairy",26
+2026-10-23,"P104","Bread","Bakery",19
+2026-10-23,"P105","Sugar","Grocery",11
+2026-10-23,"P106","Coffee","Beverages",7
+2026-10-24,"P101","Rice","Grocery",32
+2026-10-24,"P102","Cooking Oil","Grocery",9
+2026-10-24,"P103","Milk","Dairy",29
+2026-10-24,"P104","Bread","Bakery",27
+2026-10-24,"P105","Sugar","Grocery",16
+2026-10-24,"P106","Coffee","Beverages",9
+2026-10-25,"P101","Rice","Grocery",36
+2026-10-25,"P102","Cooking Oil","Grocery",14
+2026-10-25,"P103","Milk","Dairy",34
+2026-10-25,"P104","Bread","Bakery",17
+2026-10-25,"P105","Sugar","Grocery",19
+2026-10-25,"P106","Coffee","Beverages",11
+2026-10-26,"P101","Rice","Grocery",22
+2026-10-26,"P102","Cooking Oil","Grocery",13
+2026-10-26,"P103","Milk","Dairy",13
+2026-10-26,"P104","Bread","Bakery",21
+2026-10-26,"P105","Sugar","Grocery",22
+2026-10-26,"P106","Coffee","Beverages",6
+2026-10-27,"P101","Rice","Grocery",34
+2026-10-27,"P102","Cooking Oil","Grocery",12
+2026-10-27,"P103","Milk","Dairy",22
+2026-10-27,"P104","Bread","Bakery",13
+2026-10-27,"P105","Sugar","Grocery",11
+2026-10-27,"P106","Coffee","Beverages",12
+2026-10-28,"P101","Rice","Grocery",28
+2026-10-28,"P102","Cooking Oil","Grocery",14
+2026-10-28,"P103","Milk","Dairy",31
+2026-10-28,"P104","Bread","Bakery",18
+2026-10-28,"P105","Sugar","Grocery",14
+2026-10-28,"P106","Coffee","Beverages",8
+2026-10-29,"P101","Rice","Grocery",18
+2026-10-29,"P102","Cooking Oil","Grocery",11
+2026-10-29,"P103","Milk","Dairy",31
+2026-10-29,"P104","Bread","Bakery",20
+2026-10-29,"P105","Sugar","Grocery",12
+2026-10-29,"P106","Coffee","Beverages",6
+2026-10-30,"P101","Rice","Grocery",18
+2026-10-30,"P102","Cooking Oil","Grocery",10
+2026-10-30,"P103","Milk","Dairy",24
+2026-10-30,"P104","Bread","Bakery",27
+2026-10-30,"P105","Sugar","Grocery",10
+2026-10-30,"P106","Coffee","Beverages",7
+2026-10-31,"P101","Rice","Grocery",40
+2026-10-31,"P102","Cooking Oil","Grocery",22
+2026-10-31,"P103","Milk","Dairy",36
+2026-10-31,"P104","Bread","Bakery",27
+2026-10-31,"P105","Sugar","Grocery",18
+2026-10-31,"P106","Coffee","Beverages",10
+2026-11-01,"P101","Rice","Grocery",35
+2026-11-01,"P102","Cooking Oil","Grocery",14
+2026-11-01,"P103","Milk","Dairy",42
+2026-11-01,"P104","Bread","Bakery",23
+2026-11-01,"P105","Sugar","Grocery",10
+2026-11-01,"P106","Coffee","Beverages",11
+2026-11-02,"P101","Rice","Grocery",23
+2026-11-02,"P102","Cooking Oil","Grocery",13
+2026-11-02,"P103","Milk","Dairy",30
+2026-11-02,"P104","Bread","Bakery",13
+2026-11-02,"P105","Sugar","Grocery",14
+2026-11-02,"P106","Coffee","Beverages",8
+2026-11-03,"P101","Rice","Grocery",27
+2026-11-03,"P102","Cooking Oil","Grocery",7
+2026-11-03,"P103","Milk","Dairy",30
+2026-11-03,"P104","Bread","Bakery",21
+2026-11-03,"P105","Sugar","Grocery",14
+2026-11-03,"P106","Coffee","Beverages",11
+2026-11-04,"P101","Rice","Grocery",22
+2026-11-04,"P102","Cooking Oil","Grocery",12
+2026-11-04,"P103","Milk","Dairy",31
+2026-11-04,"P104","Bread","Bakery",16
+2026-11-04,"P105","Sugar","Grocery",14
+2026-11-04,"P106","Coffee","Beverages",7
+2026-11-05,"P101","Rice","Grocery",29
+2026-11-05,"P102","Cooking Oil","Grocery",12
+2026-11-05,"P103","Milk","Dairy",28
+2026-11-05,"P104","Bread","Bakery",11
+2026-11-05,"P105","Sugar","Grocery",8
+2026-11-05,"P106","Coffee","Beverages",6
+2026-11-06,"P101","Rice","Grocery",24
+2026-11-06,"P102","Cooking Oil","Grocery",16
+2026-11-06,"P103","Milk","Dairy",35
+2026-11-06,"P104","Bread","Bakery",21
+2026-11-06,"P105","Sugar","Grocery",8
+2026-11-06,"P106","Coffee","Beverages",8
+2026-11-07,"P101","Rice","Grocery",24
+2026-11-07,"P102","Cooking Oil","Grocery",11
+2026-11-07,"P103","Milk","Dairy",38
+2026-11-07,"P104","Bread","Bakery",27
+2026-11-07,"P105","Sugar","Grocery",18
+2026-11-07,"P106","Coffee","Beverages",8
+2026-11-08,"P101","Rice","Grocery",28
+2026-11-08,"P102","Cooking Oil","Grocery",16
+2026-11-08,"P103","Milk","Dairy",31
+2026-11-08,"P104","Bread","Bakery",28
+2026-11-08,"P105","Sugar","Grocery",16
+2026-11-08,"P106","Coffee","Beverages",7
+2026-11-09,"P101","Rice","Grocery",25
+2026-11-09,"P102","Cooking Oil","Grocery",13
+2026-11-09,"P103","Milk","Dairy",27
+2026-11-09,"P104","Bread","Bakery",28
+2026-11-09,"P105","Sugar","Grocery",7
+2026-11-09,"P106","Coffee","Beverages",12
+2026-11-10,"P101","Rice","Grocery",26
+2026-11-10,"P102","Cooking Oil","Grocery",11
+2026-11-10,"P103","Milk","Dairy",30
+2026-11-10,"P104","Bread","Bakery",30
+2026-11-10,"P105","Sugar","Grocery",12
+2026-11-10,"P106","Coffee","Beverages",8
+2026-11-11,"P101","Rice","Grocery",31
+2026-11-11,"P102","Cooking Oil","Grocery",7
+2026-11-11,"P103","Milk","Dairy",35
+2026-11-11,"P104","Bread","Bakery",26
+2026-11-11,"P105","Sugar","Grocery",11
+2026-11-11,"P106","Coffee","Beverages",3
+2026-11-12,"P101","Rice","Grocery",22
+2026-11-12,"P102","Cooking Oil","Grocery",11
+2026-11-12,"P103","Milk","Dairy",27
+2026-11-12,"P104","Bread","Bakery",28
+2026-11-12,"P105","Sugar","Grocery",19
+2026-11-12,"P106","Coffee","Beverages",13
+2026-11-13,"P101","Rice","Grocery",30
+2026-11-13,"P102","Cooking Oil","Grocery",13
+2026-11-13,"P103","Milk","Dairy",35
+2026-11-13,"P104","Bread","Bakery",23
+2026-11-13,"P105","Sugar","Grocery",16
+2026-11-13,"P106","Coffee","Beverages",7
+2026-11-14,"P101","Rice","Grocery",29
+2026-11-14,"P102","Cooking Oil","Grocery",14
+2026-11-14,"P103","Milk","Dairy",23
+2026-11-14,"P104","Bread","Bakery",31
+2026-11-14,"P105","Sugar","Grocery",16
+2026-11-14,"P106","Coffee","Beverages",3
+2026-11-15,"P101","Rice","Grocery",43
+2026-11-15,"P102","Cooking Oil","Grocery",10
+2026-11-15,"P103","Milk","Dairy",40
+2026-11-15,"P104","Bread","Bakery",28
+2026-11-15,"P105","Sugar","Grocery",21
+2026-11-15,"P106","Coffee","Beverages",16
+2026-11-16,"P101","Rice","Grocery",26
+2026-11-16,"P102","Cooking Oil","Grocery",12
+2026-11-16,"P103","Milk","Dairy",30
+2026-11-16,"P104","Bread","Bakery",19
+2026-11-16,"P105","Sugar","Grocery",18
+2026-11-16,"P106","Coffee","Beverages",7
